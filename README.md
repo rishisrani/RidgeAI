@@ -23,4 +23,5 @@ The system uses a live camera feed to detect:
 - motorcycles
 - bicycles
 - pedestrians
+  
 It then analyzes whether detected objects are inside a predefined roadway danger zone and provides real-time visual safety warnings.
