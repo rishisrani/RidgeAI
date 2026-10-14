@@ -1,0 +1,35 @@
+20260602_222309 | Risk=9 | Decision=WAIT FOR TRAFFIC
+20260604_124225 | Risk=10 | Decision=WAIT FOR TRAFFIC
+20260604_124236 | Risk=8 | Decision=WAIT FOR TRAFFIC
+20260604_124316 | Risk=8 | Decision=WAIT FOR TRAFFIC
+20260604_124328 | Risk=10 | Decision=WAIT FOR TRAFFIC
+20260604_124338 | Risk=10 | Decision=WAIT FOR TRAFFIC
+20260604_124348 | Risk=8 | Decision=WAIT FOR TRAFFIC
+20260604_124358 | Risk=10 | Decision=WAIT FOR TRAFFIC
+20260604_124733 | Risk=8 | Decision=WAIT FOR TRAFFIC
+20260604_124744 | Risk=10 | Decision=WAIT FOR TRAFFIC
+20260604_124754 | Risk=8 | Decision=WAIT FOR TRAFFIC
+20260604_124805 | Risk=8 | Decision=WAIT FOR TRAFFIC
+20260606_140825 | Risk=8 | Decision=WAIT FOR TRAFFIC
+20260606_140835 | Risk=9 | Decision=WAIT FOR TRAFFIC
+20260606_140845 | Risk=10 | Decision=WAIT FOR TRAFFIC
+20260606_140855 | Risk=20 | Decision=WAIT FOR TRAFFIC
+20260606_140914 | Risk=12 | Decision=WAIT FOR TRAFFIC
+20260610_121335 | Decision=WAIT FOR TRAFFIC | Class=car | Risk=3 | Zone=GREEN | TTI=None | Reasons=
+20260610_121345 | Decision=WAIT FOR TRAFFIC | Class=car | Risk=5 | Zone=GREEN | TTI=None | Reasons=
+20260610_121355 | Decision=WAIT FOR TRAFFIC | Class=car | Risk=7 | Zone=GREEN | TTI=None | Reasons=Approaching Motion
+20260610_121405 | Decision=WAIT FOR TRAFFIC | Class=car | Risk=5 | Zone=GREEN | TTI=None | Reasons=Approaching Motion
+20260610_121415 | Decision=WAIT FOR TRAFFIC | Class=car | Risk=7 | Zone=GREEN | TTI=None | Reasons=Approaching Motion
+20260610_121429 | Decision=WAIT FOR TRAFFIC | Class=person | Risk=6 | Zone=GREEN | TTI=None | Reasons=Approaching Motion
+20260614_223933 | Decision=WAIT FOR TRAFFIC | Class=car | Risk=5 | Zone=GREEN | TTI=None | Reasons=Approaching Motion
+20260614_223944 | Decision=WAIT FOR TRAFFIC | Class=car | Risk=6 | Zone=GREEN | TTI=17.75 | Reasons=Approaching Motion
+20260614_223954 | Decision=WAIT FOR TRAFFIC | Class=car | Risk=5 | Zone=GREEN | TTI=33.18181818181819 | Reasons=Approaching Motion
+20260614_224004 | Decision=WAIT FOR TRAFFIC | Class=car | Risk=5 | Zone=GREEN | TTI=30.267857142857146 | Reasons=Approaching Motion
+20260623_120755 | Decision=WAIT FOR TRAFFIC | Severity=MEDIUM | Class=person | Risk=9 | Zone=GREEN | TTI=None | Reasons=Very Close Vehicle,Approaching Motion
+20260623_120805 | Decision=WAIT FOR TRAFFIC | Severity=MEDIUM | Class=person | Risk=9 | Zone=GREEN | TTI=None | Reasons=Very Close Vehicle,Approaching Motion
+20260623_120816 | Decision=WAIT FOR TRAFFIC | Severity=MEDIUM | Class=person | Risk=8 | Zone=GREEN | TTI=None | Reasons=Very Close Vehicle,Approaching Motion
+20260623_120826 | Decision=WAIT FOR TRAFFIC | Severity=MEDIUM | Class=person | Risk=11 | Zone=GREEN | TTI=1.8375493050938811 | Reasons=Very Close Vehicle,TTI < 3s,Approaching Motion
+20260623_120837 | Decision=WAIT FOR TRAFFIC | Severity=MEDIUM | Class=person | Risk=9 | Zone=GREEN | TTI=3.1805280181366826 | Reasons=Very Close Vehicle,TTI < 6s,Approaching Motion
+20260623_121833 | Decision=WAIT FOR TRAFFIC | Severity=LOW | Class=person | Risk=2 | Zone=GREEN | TTI=None | Reasons=Approaching Motion
+20260623_121856 | Decision=WAIT FOR TRAFFIC | Severity=LOW | Class=person | Risk=2 | Zone=GREEN | TTI=None | Reasons=Approaching Motion
+20260623_121906 | Decision=WAIT FOR TRAFFIC | Severity=LOW | Class=person | Risk=7 | Zone=GREEN | TTI=None | Reasons=Very Close Vehicle

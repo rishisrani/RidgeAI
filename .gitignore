@@ -1,0 +1,11 @@
+reports/
+testvideos/
+handoff.md
+*.mov
+*.MOV
+*.mp4
+*.png
+__pycache__/
+*.pyc
+.venv/
+.env
